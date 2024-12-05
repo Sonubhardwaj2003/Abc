@@ -1,0 +1,21 @@
+# a='ABESEC'
+# print(a)
+# print(type(a))
+
+a='ABESEC'
+# print(a[1:3])
+# print(a[0:5])
+# print(a[0:6])
+# print(a[0:10])
+# print(a[:8])
+# print(a[0: ])
+# print(a[:])
+# print(a[-1:-5:-1])
+# print(a[ ::-1])
+# print(a[-1:])
+# print(a[:-1])
+# print(a[-7:-1])
+print(a[-7:0])
+print(a[-1:-7])
+print(a[-1:-7:-1])
+print(type(a))
